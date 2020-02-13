@@ -1,0 +1,28 @@
+{
+  "files": {
+    "static/js/0.cc246505.chunk.js": "/tbclient/static/js/0.cc246505.chunk.js",
+    "static/js/0.cc246505.chunk.js.map": "/tbclient/static/js/0.cc246505.chunk.js.map",
+    "static/js/1.f926f0b6.chunk.js": "/tbclient/static/js/1.f926f0b6.chunk.js",
+    "static/js/1.f926f0b6.chunk.js.map": "/tbclient/static/js/1.f926f0b6.chunk.js.map",
+    "static/js/2.ff88e18d.chunk.js": "/tbclient/static/js/2.ff88e18d.chunk.js",
+    "static/js/2.ff88e18d.chunk.js.map": "/tbclient/static/js/2.ff88e18d.chunk.js.map",
+    "main.css": "/tbclient/static/css/main.6e8c4cfb.chunk.css",
+    "main.js": "/tbclient/static/js/main.14aea77c.chunk.js",
+    "main.js.map": "/tbclient/static/js/main.14aea77c.chunk.js.map",
+    "runtime-main.js": "/tbclient/static/js/runtime-main.ce9dcbd8.js",
+    "runtime-main.js.map": "/tbclient/static/js/runtime-main.ce9dcbd8.js.map",
+    "static/js/5.60e572bf.chunk.js": "/tbclient/static/js/5.60e572bf.chunk.js",
+    "static/js/5.60e572bf.chunk.js.map": "/tbclient/static/js/5.60e572bf.chunk.js.map",
+    "index.html": "/tbclient/index.html",
+    "precache-manifest.b0f95df68af9367e68c771cf3ecef9bc.js": "/tbclient/precache-manifest.b0f95df68af9367e68c771cf3ecef9bc.js",
+    "service-worker.js": "/tbclient/service-worker.js",
+    "static/css/main.6e8c4cfb.chunk.css.map": "/tbclient/static/css/main.6e8c4cfb.chunk.css.map",
+    "static/js/5.60e572bf.chunk.js.LICENSE.txt": "/tbclient/static/js/5.60e572bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce9dcbd8.js",
+    "static/js/5.60e572bf.chunk.js",
+    "static/css/main.6e8c4cfb.chunk.css",
+    "static/js/main.14aea77c.chunk.js"
+  ]
+}
